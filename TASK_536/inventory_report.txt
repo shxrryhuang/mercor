@@ -1,0 +1,23 @@
+Inventory Report
+Generated: 2025-11-06 23:10:42
+
+Summary:
+- Total SKUs: 8
+- Inventory Value: $58,418.00
+- Avg Price: $151.71
+
+Category Breakdown:
+Beauty: count=2, on_hand=27, avg_price=$38.50
+Electronics: count=2, on_hand=54, avg_price=$414.00
+Grocery: count=2, on_hand=1800, avg_price=$10.35
+Home: count=2, on_hand=79, avg_price=$144.00
+
+At-Risk Items (highest return rate):
+1. B410 - 33.00%
+2. B400 - 12.00%
+3. E200 - 6.10%
+4. E100 - 4.50%
+5. H305 - 3.00%
+
+Validation Status: PASSED
+Issues Found: 2

@@ -1,0 +1,9 @@
+sku,name,category,price_usd,on_hand,incoming,sold_ytd,return_rate_pct,inventory_value_usd,restock_tier
+B400,Serum,Beauty,42.0,8,0,900,12.0,336.0,Immediate
+B410,Moisturizer,Beauty,35.0,19,25,650,33.0,665.0,Soon
+E100,Phone,Electronics,699.0,42,10,520,4.5,29358.0,Monitor
+E200,Headphones,Electronics,129.0,12,0,800,6.1,1548.0,Soon
+G500,Rice,Grocery,18.5,600,0,3400,1.0,11100.0,Healthy
+G510,Pasta,Grocery,2.2,1200,0,4100,0.5,2640.0,Healthy
+H300,Vacuum,Home,189.0,55,5,110,2.0,10395.0,Healthy
+H305,Blender,Home,99.0,24,8,200,3.0,2376.0,Soon

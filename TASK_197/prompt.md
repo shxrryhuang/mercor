@@ -1,0 +1,2 @@
+You’re a data analysis expert given a Jupyter notebook that has some incorrect calculations. Identify and fix the errors. The goal is to filter the lowest and highest 30% values which are considered outliers in the dataset. Round up the number of values removed; if there are 19 datapoints, the outliers would be the highest three values and lowest three values. Then, calculate the average of the remaining dataset points. Something has gone wrong since the value of the final average differs from the running the calculation by hand. 
+

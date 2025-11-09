@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "export_date": "2025-11-06 23:10:42",
+    "total_skus": 8,
+    "total_inventory_value_usd": 58418.0
+  },
+  "category_snapshot": {
+    "Beauty": {
+      "item_count": 2,
+      "sum_on_hand": 27,
+      "avg_price_usd": 38.5
+    },
+    "Electronics": {
+      "item_count": 2,
+      "sum_on_hand": 54,
+      "avg_price_usd": 414.0
+    },
+    "Grocery": {
+      "item_count": 2,
+      "sum_on_hand": 1800,
+      "avg_price_usd": 10.35
+    },
+    "Home": {
+      "item_count": 2,
+      "sum_on_hand": 79,
+      "avg_price_usd": 144.0
+    }
+  },
+  "at_risk_items": [
+    "B410",
+    "B400",
+    "E200",
+    "E100",
+    "H305"
+  ]
+}
